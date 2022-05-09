@@ -14,5 +14,6 @@ O arquivo de configuração gerado possui diversas propriedades que podem ser al
 - `module`: Qual padrão de módulos JavaScript do projeto.
 - `strict`: Habilita um desenvolvimento estrito, isso é importante para nós nos atentarmos sempre as tipagems.
 - `outDir`: Define o diretório de output dos arquivos compilados
+- noImplicitAny: Não permite a declaração de tipagem `any` mesmo que seja implícita.
 
 Com um diretório de output definido, ao executar o comando `tsc` o TypeScript será compilado e inserido neste diretório.

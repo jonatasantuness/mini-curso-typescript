@@ -6,6 +6,7 @@
 - [Mitos e Verdades](2-mitos-e-verdades/mitos-e-verdades.md)
 - [Instalando o compilador e escrevendo o primeiro código](3-instalacao/instalacao.md)
 - [Criando e configurando TSconfig](4-tsconfig/tsconfig.md)
+- [Types](5-types/types.md)
 
 ## Links úteis
 
