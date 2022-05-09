@@ -7,6 +7,7 @@
 - [Instalando o compilador e escrevendo o primeiro código](3-instalacao/instalacao.md)
 - [Criando e configurando TSconfig](4-tsconfig/tsconfig.md)
 - [Types](5-types/types.md)
+- [Type Inference](6-type-inference/inference.md)
 
 ## Links úteis
 
