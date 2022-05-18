@@ -8,6 +8,7 @@
 - [Criando e configurando TSconfig](4-tsconfig/tsconfig.md)
 - [Types](5-types/types.md)
 - [Type Inference](6-type-inference/inference.md)
+- [Type Aliases e Union](7-type-aliases-union/type-aliases-union.md)
 
 ## Links úteis
 
