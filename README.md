@@ -10,6 +10,7 @@
 - [Type Inference](6-type-inference/inference.md)
 - [Type Aliases e Union](7-type-aliases-union/type-aliases-union.md)
 - [Estendendo Type Aliases com Intersection](8-intersection-type-aliases/intersection-type-aliases.md)
+- [Classes](9-classes/classes.md)
 
 ## Links úteis
 
