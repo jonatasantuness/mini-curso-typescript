@@ -12,6 +12,8 @@
 - [Estendendo Type Aliases com Intersection](8-intersection-type-aliases/intersection-type-aliases.md)
 - [Classes](9-classes/classes.md)
 - [Interfaces](10-interfaces/interfaces.md)
+- [Type Alias vs Interface](11-aliases-vs-interfaces/alias-vs-interfaces.md)
+- [Generics](12-generics/generics.md)
 
 ## Links úteis
 
