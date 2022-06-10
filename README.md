@@ -14,6 +14,7 @@
 - [Interfaces](10-interfaces/interfaces.md)
 - [Type Alias vs Interface](11-aliases-vs-interfaces/alias-vs-interfaces.md)
 - [Generics](12-generics/generics.md)
+- [Type Utilities](13-utilities/utilities.md)
 
 ## Links úteis
 
